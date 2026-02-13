@@ -1,3 +1,4 @@
+package JavaCourse;
 public class primitives_variables {
 
     public static void main(String[] args) {
@@ -32,6 +33,7 @@ public class primitives_variables {
         System.out.println("Boolean example: " + myBool);
 
         // char: Single 16-bit Unicode character.
+        // char: the data type in Java is used to store single characters in the Unicode charset and cannot hold negavite numbers.
         char myChar = 'A';
         System.out.println("Char example: " + myChar);
 
