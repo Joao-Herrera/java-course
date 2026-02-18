@@ -1,7 +1,5 @@
 package JavaCourse;
 
-import java.security.Principal;
-
 public class if_statement {
     public static void main(String[] args) {
         
